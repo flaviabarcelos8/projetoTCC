@@ -1,13 +1,11 @@
-# APP CONFIRMA!
+# Sistema Web CONFIRMA!
 Titulo: Confirma!
 
-Resumo: Aplicativo de filtração de candidatos às eleições.
+Resumo: site desenvolvido com o intuito de ajudar e democratizar o acesso a informação para todos os cidadãos.
 
 Tecnologias: Netbeans(Java Web) e PostgresSQL(Banco SQL).
 
 Documentação: ta nesse diretório.
 
-Protótipo: https://www.quant-ux.com/test.html?h=a2aa10aXho338mKKq6tStDWHjzuyym5tMBPuXPpRxbkxhktptdrNoRV2cNPK
-
-Estágio Atual: Finalizando o Administrador.
+Estágio Atual: Finalizado.
 
